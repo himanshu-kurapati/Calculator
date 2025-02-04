@@ -59,7 +59,7 @@ This is a simple calculator app built using React Native and Expo. The app provi
 *Calculator app on iPhone*
 
 ![Calculator on Android](Screenshots/Screenshot1_android.png)
-*Calculator app on Android 2*
+*Calculator app on Android*
 
 ## Getting Started
 
