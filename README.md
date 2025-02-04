@@ -42,12 +42,6 @@ To learn more about developing your project with Expo, look at the following res
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # Calculator App
 
 This is a simple calculator app built using React Native and Expo. The app provides basic arithmetic operations and supports both positive and negative numbers.
@@ -61,11 +55,11 @@ This is a simple calculator app built using React Native and Expo. The app provi
 
 ## Screenshots
 
-![Calculator Screenshot 1](path/to/screenshot1.png)
-*Description of Screenshot 1*
+![Calculator on iPhone](Screenshots/Screenshot1_iphone.png)
+*Calculator app on iPhone*
 
-![Calculator Screenshot 2](path/to/screenshot2.png)
-*Description of Screenshot 2*
+![Calculator on Android](Screenshots/Screenshot1_android.png)
+*Calculator app on Android 2*
 
 ## Getting Started
 
